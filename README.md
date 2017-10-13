@@ -2,7 +2,7 @@
 
 I have been learning a lot about writing technical english and I keep making the same mistakes, including that stupid [oxford comma](https://www.grammarly.com/blog/what-is-the-oxford-comma-and-why-do-people-care-so-much-about-it/). Hopefully this list will help.
 
-Special thanks to my friend [Frank](http://ioscoachfrank.com), the Oxford Comma, and my teammate Ewan from whom I've been learning a lot. 
+Special thanks to my friend [Frank](http://ioscoachfrank.com), my friend [Angelo](http://angelostavrow.com), the Oxford Comma, and my teammate Ewan from whom I've been learning a lot. 
 
 ## License 
 
