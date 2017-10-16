@@ -17,6 +17,7 @@ Special thanks to my friend [Frank](http://ioscoachfrank.com), my friend [Angelo
 * Avoid future tense.
 * Directories should be in monospace (ex: `Carthage/Builds/iOS`). Also, if it's a directory, say so.
 * The plural of information is information; no s.
+* Prefer alphabetical order when making lists so it doesn't suggests a popularity rating.
 
 Also, make sure that you **read your content out loud**.
 
