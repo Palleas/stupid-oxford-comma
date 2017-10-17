@@ -9,7 +9,10 @@ Special thanks to my friend [Frank](http://ioscoachfrank.com), my friend [Angelo
 ## Checklist
 
 * Make sure the introduction covers all the steps you're going to cover.
-* Avoid the use of /gerunds/, use "How to make sure that" instead of "Making sure that"
+* Avoid the use of _gerunds_:
+    * use "How to make sure that" instead of "Making sure that"
+    * Drop the “ing”
+    * Use “Learn how to...”
 * Avoid making a definitive-sounding statement and then immediately invalidating it.
 * Avoid Redundencies (ex: Running a command from a directory and starting the exanple with a `cd`)
 * Don't make "that" implicit (ex: "make sure **that** your project...").
