@@ -17,10 +17,14 @@ Special thanks to my friend [Frank](http://ioscoachfrank.com), my friend [Angelo
 * Avoid Redundencies (ex: Running a command from a directory and starting the exanple with a `cd`)
 * Don't make "that" implicit (ex: "make sure **that** your project...").
 * Add commas before "but" (ex: "This command is very straightforward, but").
-* Avoid future tense.
+* Avoid future tense.ok, 
 * Directories should be in monospace (ex: `Carthage/Builds/iOS`). Also, if it's a directory, say so.
 * The plural of information is information; no s.
 * Prefer alphabetical order when making lists so it doesn't suggests a popularity rating.
+* Use the oxford comma:
+   * "rename your apps, change the repo URL**,** or delete apps"
+* compound adjectives need to be hyphenated
+   * "purpose built" → "purpose-built"
 
 Also, make sure that you **read your content out loud**.
 
