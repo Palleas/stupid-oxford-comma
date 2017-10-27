@@ -22,7 +22,7 @@ Special thanks to my friend [Frank](http://ioscoachfrank.com), my friend [Angelo
 * The plural of information is information; no s.
 * Prefer alphabetical order when making lists so it doesn't suggests a popularity rating.
 * Use the oxford comma:
-   * "rename your apps, change the repo URL**,** or delete apps"
+   * "rename your apps, change the repo URL **,** or delete apps"
 * compound adjectives need to be hyphenated
    * "purpose built" → "purpose-built"
 
